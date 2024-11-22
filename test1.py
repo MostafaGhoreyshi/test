@@ -19,3 +19,4 @@ except ValueError:
 
 
     s1= x1+ x2
+    s2= y1 + y2 
