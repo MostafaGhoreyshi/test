@@ -16,3 +16,6 @@ try:
         print(f"{num} عدد اول نیست.")
 except ValueError:
     print("لطفاً یک عدد صحیح وارد کنید!")
+
+
+    s1= x1+ x2
